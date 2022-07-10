@@ -1,0 +1,2 @@
+Hi,
+I am adding this file to my git hub so that it can be add, commit and push.
