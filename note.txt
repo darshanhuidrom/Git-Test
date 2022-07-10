@@ -1,2 +1,3 @@
 Hi,
-I am adding this file to my git hub so that it can be add, commit and push.
+I am adding this file to my git hub so that it can be add, commit and push
+Now some text has been added.
